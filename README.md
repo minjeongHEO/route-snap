@@ -1,4 +1,4 @@
-# 🗺️ 📸 route-snapshot
+# 🗺️ 📸 route-snap
 
 Convert route coordinates into a snapshot image with customizable styling options.
 Perfect for visualizing routes from map services like Kakao Maps into customizable canvas images.
@@ -6,11 +6,11 @@ Perfect for visualizing routes from map services like Kakao Maps into customizab
 ## Installation
 
 ```bash
-npm install route-snapshot
+npm install route-snap
 # or
-yarn add route-snapshot
+yarn add route-snap
 # or
-pnpm add route-snapshot
+pnpm add route-snap
 ```
 
 ## Features
@@ -24,7 +24,7 @@ pnpm add route-snapshot
 ## Usage
 
 ```typescript
-import { RouteSnapshot, fromKakaoLatLng } from "route-snapshot";
+import { RouteSnapshot, fromKakaoLatLng } from "route-snap";
 
 // Basic usage
 const snapshot = new RouteSnapshot({
