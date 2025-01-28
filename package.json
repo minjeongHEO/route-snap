@@ -1,6 +1,6 @@
 {
   "name": "route-snap",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "files": [
@@ -12,7 +12,7 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "description": "Generate route image from coordinates",
   "devDependencies": {
     "@types/node": "^22.12.0",
